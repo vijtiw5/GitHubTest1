@@ -21,5 +21,10 @@ namespace GitHubTest1
 		{
 			MessageBox.Show("First message");
 		}
+
+		private void button2_Click(object sender, EventArgs e)
+		{
+			MessageBox.Show("This is updated version");
+		}
 	}
 }
